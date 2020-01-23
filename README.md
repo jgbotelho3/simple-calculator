@@ -2,6 +2,7 @@
 
 This calculator was developed as example of Javascript course. (https://www.hcode.com.br/#/)
 
+![calculator](https://user-images.githubusercontent.com/20749950/72955537-0f964700-3d7b-11ea-97ae-9205c0773627.png)
 
 
 ## Feature and information
